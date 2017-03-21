@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Contato</title>
+    <title>Clean Blog - Sample Post</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -49,16 +49,16 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="index.html">Inicio</a>
+                        <a href="index.html">Home</a>
                     </li>
                     <li>
-                        <a href="about.html">Sobre</a>
+                        <a href="about.html">About</a>
                     </li>
                     <li>
-                        <a href="post.html">Posts</a>
+                        <a href="post.html">Sample Post</a>
                     </li>
                     <li>
-                        <a href="contact.html">Contato</a>
+                        <a href="contact.html">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -69,68 +69,55 @@
 
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
-    <header class="intro-header" style="background-image: url('img/contact-bg.jpg')">
+    <header class="intro-header" style="background-image: url('img/post-bg.jpg')">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                    <div class="page-heading">
-                        <h1>Entre em contato</h1>
-                        <hr class="small">
-                        <span class="subheading">Faça sua pergunta e tentaremos te ajudar.</span>
+                    <div class="post-heading">
+                        <h1>7 passos que o livro “O Homem mais Rico da Babilônia” nos ensina sobre educação financeira</h1>
+                        <h2 class="subheading"> </h2>
+                        <span class="meta">Postado por <a href="#">Henrique</a> em 20 de março de 2017</span>
                     </div>
                 </div>
             </div>
         </div>
     </header>
 
-    <!-- Main Content -->
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <p>TEXTO AQUI SOBRE O PORQUE DA PESSOA FAZER CADASTRO!</p>
-                <!-- Contact Form - Enter your email address on line 19 of the mail/contact_me.php file to make this form work. -->
-                <!-- WARNING: Some web hosts do not allow emails to be sent through forms to common mail hosts like Gmail or Yahoo. It's recommended that you use a private domain email address! -->
-                <!-- NOTE: To use the contact form, your site must be on a live web host with PHP! The form will not work locally! -->
-                <form name="sentMessage" id="contactForm" novalidate>
-                    <div class="row control-group">
-                        <div class="form-group col-xs-12 floating-label-form-group controls">
-                            <label>Nome</label>
-                            <input type="text" class="form-control" placeholder="Name" id="name" required data-validation-required-message="Insira seu nome completo.">
-                            <p class="help-block text-danger"></p>
-                        </div>
-                    </div>
-                    <div class="row control-group">
-                        <div class="form-group col-xs-12 floating-label-form-group controls">
-                            <label>Email </label>
-                            <input type="email" class="form-control" placeholder="Email Address" id="email" required data-validation-required-message="Insira seu endereço de e-mail">
-                            <p class="help-block text-danger"></p>
-                        </div>
-                    </div>
-                    <div class="row control-group">
-                        <div class="form-group col-xs-12 floating-label-form-group controls">
-                            <label>Phone Number</label>
-                            <input type="tel" class="form-control" placeholder="Phone Number" id="phone" required data-validation-required-message="Please enter your phone number.">
-                            <p class="help-block text-danger"></p>
-                        </div>
-                    </div>
-                    <div class="row control-group">
-                        <div class="form-group col-xs-12 floating-label-form-group controls">
-                            <label>Mensagem</label>
-                            <textarea rows="5" class="form-control" placeholder="Message" id="message" required data-validation-required-message="Please enter a message."></textarea>
-                            <p class="help-block text-danger"></p>
-                        </div>
-                    </div>
-                    <br>
-                    <div id="success"></div>
-                    <div class="row">
-                        <div class="form-group col-xs-12">
-                            <button type="submit" class="btn btn-default">Enviar</button>
-                        </div>
-                    </div>
-                </form>
+    <!-- Post Content -->
+    <article>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    Para população brasileira, educação financeira não é um assunto recorrente <p>em seu cotidiano, fazendo com que boa parte viva no limite dos seus ganhos ou até mesmo no vermelho. Para começar a reverter essa situação, o livro “O Homem mais Rico da Babilônia”, escrito por <a href="https://pt.wikipedia.org/wiki/George_Samuel_Clason">George S. Clason,</a> em 1926, <p>conta a história de Arkad, que de uma vida humilde se tornou o homem mais rico da Babilônia. Para isso ele lista 7 passos para a prosperidade financeira.
+
+<b><p>1- Poupe 10% dos seus ganhos</b><p>
+Organize suas contas e defina quais são gastos obrigatórios (água, luz, mercado, entre outros) e quais os desejos (mais roupas, almoçar fora de casa, jóias…), feito isso, guarde 10% dos seus ganhos.
+
+<b><p>2-  Controle suas despesas</b><p>
+Gaste menos do que você ganha, é óbvio e mais fácil de falar do que se colocar em prática mas em uma sociedade que se estimula o consumo desenfreado  é necessário ter controle para definir suas prioridades
+
+<b><p>3- Faça com que seu ouro frutifique</b><p>
+Agora que já conseguiu guardar 10% dos seu ganhos e diminuir as despesas é hora de investir para fazer esse dinheiro render, como fundos de índice de baixo risco (hiperlink para outra postagem sobre investimentos baixo risco)<p>
+
+<b><p>4- Proteja seu tesouro contra qualquer perda</b><p>
+Invista de maneira inteligente, ninguém fica rico da noite para o dia, investir é pensar a longo prazo.
+
+<b><p>5- Faça com que sua propriedade seja uma inversão rentável</b><p>
+Ponto mais controverso, Arkad aconselha a aquisição da casa própria, porém antes é necessário saber se você tem o dinheiro disponível para comprar e se planejar junto aos gastos oriundos da mesma.
+<p><p>
+<b><p>6- Assegurar as economias pro futuro</b><p>
+Quanto antes você começar a juntar, mais dinheiro<p> terá para desfrutar na aposentadoria, se não começou, o melhor momento é AGORA!
+<p><p>
+<b><p>7- Aumente sua habilidade de adquirir bens</b><p>
+Seus desejos de crescimento devem ser fortes e bem definidos, criando metas tangíveis. Isso associado ao constante aperfeiçoamento de suas habilidades, dificilmente você receberá mais fazendo suas tarefas sempre do mesmo jeito.
+<p>
+
+                    <a href="#">
+                        <img class="img-responsive" src="img/post-sample-image.jpg" alt="">
+                                    </div>
             </div>
         </div>
-    </div>
+    </article>
 
     <hr>
 
@@ -141,23 +128,31 @@
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <ul class="list-inline text-center">
                         <li>
-                            <a href="https://www.linkedin.com/company-beta/16221375/">
+                            <a href="#">
                                 <span class="fa-stack fa-lg">
                                     <i class="fa fa-circle fa-stack-2x"></i>
-                                    <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
                                 </span>
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.facebook.com/blogcademinhagrana">
+                            <a href="#">
                                 <span class="fa-stack fa-lg">
                                     <i class="fa fa-circle fa-stack-2x"></i>
                                     <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
                                 </span>
                             </a>
                         </li>
+                        <li>
+                            <a href="#">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
                     </ul>
-                    <p class="copyright text-muted">Copyright &copy; Cadê Minha Grana? 2017</p>
+                    <p class="copyright text-muted">Copyright &copy; Your Website 2016</p>
                 </div>
             </div>
         </div>
@@ -175,12 +170,6 @@
 
     <!-- Theme JavaScript -->
     <script src="js/clean-blog.min.js"></script>
-    
-    <!-- TESTE CONECTAR NO BANCO
-    <?php
-$conectar = mysql_connect("localhost","root","") or die ("Erro na conexão");
-mysql_select_db("tcc")or die ("Base não encontrada");
-?> -->
 
 </body>
 
