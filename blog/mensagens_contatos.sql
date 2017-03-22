@@ -33,7 +33,7 @@ CREATE TABLE IF NOT EXISTS `mensagens_contatos` (
   `email` varchar(220) NOT NULL,
   `mensagem` text NOT NULL,
   `created` datetime NOT NULL,
-  `ip`	varchar(220) NOT NULL,
+  'ip'	varchar(220) NOT NULL,
   `modified` datetime DEFAULT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=2 ;
